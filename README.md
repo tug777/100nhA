@@ -10,6 +10,6 @@ Site gerador de senhas seguras desenvolvido na unidade "Segurança digital: util
 Para acessar o código referente às aulas, clique no seletor `main` do repositório e selecione a aula desejada.
 
 ## Notas e créditos
-Feito por Marcelo Paludetto Rodrigues, instrutor da Start by Alura.
+Feito por @marcelopaludetto, instrutor especialista da Start by Alura.
 
 ### Acesse o [Figma](https://www.figma.com/community/file/1281336077503271053/javascript-senhas-seguras-com-matematica-e-programacao) para ter acesso ao protótipo
